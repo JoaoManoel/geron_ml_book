@@ -10,6 +10,7 @@ tf_logs/*
 images/**/*.png
 images/**/*.dot
 my_*
+datasets/housing
 datasets/flowers
 datasets/lifesat/lifesat.csv
 datasets/spam
